@@ -1,5 +1,6 @@
 """
 Overview of what the code in this file does
+Example: This code contains helper functions for solving very hard math equations
 """
 
 import numpy as np
