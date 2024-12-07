@@ -1,4 +1,4 @@
-# documentation-template
+# README template
 By AUTHOR_NAME(S)
 
 ## Project Description
